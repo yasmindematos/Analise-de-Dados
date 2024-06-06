@@ -2,7 +2,7 @@
   <img src="https://github.com/yasmindematos/Analise-de-Dados/assets/98225965/886eb602-610f-4d5d-8be1-bcfc7cdb7015" alt="data">
 </p>
 
-**1. O que são dados? Quais são suas fontes? O que define análise de dados?**
+<span style="color: #800080;">**1. O que são dados? Quais são suas fontes? O que define análise de dados?**</span>
 
 Dados são informações coletadas que podem ser utilizadas para análise e tomada de decisões. Eles podem ser qualitativos ou quantitativos e são fundamentais para entender comportamentos, tendências e padrões.
 
